@@ -2,6 +2,8 @@
 test.cpp
 mainCUDAZ.*
 openZZZ.*
+env.sh
+
 .idea/
 cmake-build-debug/
 
